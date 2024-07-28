@@ -28,7 +28,7 @@ The raw and preprocessed EEG data are openly available online at https://doi.org
 
 ## Usage Notes
 - Researchers should cite the dataset appropriately when using it.
-- For any questions or issues, please refer to the `README` file or contact the corresponding authors: Yanru Bai (yr56 bai@tju.edu.cn), Guangjian Ni (niguangjian@tju.edu.cn).
+- For any questions or issues, please refer to the `README` file or contact the corresponding authors: Yanru Bai (yr56_bai@tju.edu.cn), Guangjian Ni (niguangjian@tju.edu.cn).
 
 ## Version
 braindecode==0.4.85
