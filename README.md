@@ -15,10 +15,10 @@ The dataset is organized according to the BIDS standard:
   - `participants.tsv`: Participant information.
   - `participants.json`: Details of columns in `participants.tsv`.
   - `README`: General information about the dataset.
-  - `data_all.mat`: Labeled EEG data of all subjects in MAT format.
-- **Derivative Data**:
+  - **Derivative Data**:
   - `final_bids/`: EEG data stored in JSON, TSV, and EDF formats.
   - `preproc/`: Preprocessed data, including subfolders for each subject (`sub-01`, etc.), with data in various formats (BDF, SET, FDT, ERP, MAT).
+  - `sourcedata/`: Labeled EEG data of all subjects in MAT format(data_all.mat).
 
 ## Technical Validation
 Sensor-level EEG analyses were performed, showing distinct responses to target and non-target words at different time points, with notable changes in potential distribution across the scalp.
